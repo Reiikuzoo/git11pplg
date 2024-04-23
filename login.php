@@ -6,7 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>anjayyy</h1>
-    <p> ini adalah web set kuuu</p>
+    
 </body>
 </html>
